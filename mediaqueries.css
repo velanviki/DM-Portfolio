@@ -54,10 +54,14 @@
   @media screen and (max-width: 600px) {
     #contact,
     footer {
-      height: 45vh;
+      height: 30vh;
       margin-top: 100px;
     }
-
+#foot{
+  width: 100%;
+  height: 2%;
+  background-color: black;
+}
     #skills{
       margin-top: 100px;
     }
