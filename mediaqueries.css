@@ -19,6 +19,9 @@
     #hamburger-nav {
       display: flex;
     }
+    #skills{
+      margin-top: 100px;
+    }
     #experience,
     .experience-details-container {
       margin-top: 2rem;
@@ -52,6 +55,11 @@
     #contact,
     footer {
       height: 45vh;
+      margin-top: 100px;
+    }
+
+    #skills{
+      margin-top: 100px;
     }
  
     #profile {
